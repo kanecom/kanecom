@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+<p align="left"> 
+  <img height=190 alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanecom&layout=compact&show_icons=true&theme=dark" />
+  <img height=190 alt="github stats" src="https://github-readme-stats.vercel.app/api?username=kanecom&theme=dark&show_icons=ture" />
+</p>
+
 <!--
 **kanecom/kanecom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
